@@ -1,4 +1,4 @@
-package codingTest.programmers;
+package codingTest.programmers.test;
 
 public class Program_1 {
     public String solution(int n, int[][] delivery) {

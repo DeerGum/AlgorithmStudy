@@ -1,7 +1,6 @@
-package codingTest.codeforce.prevCode;
+package codingTest.programmers.skillCheck1.try2;
 
 import java.io.*;
-import java.util.StringTokenizer;
 
 public class Program_1 {
 
@@ -11,5 +10,10 @@ public class Program_1 {
 
         int t = Integer.parseInt(br.readLine());
         int n;
+    }
+
+    public int solution(String s) {
+        int answer = Integer.valueOf(s);
+        return answer;
     }
 }

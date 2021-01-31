@@ -1,4 +1,4 @@
-package codingTest.programmers;
+package codingTest.programmers.test;
 
 public class Program_3 {
 

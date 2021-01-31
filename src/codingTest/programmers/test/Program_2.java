@@ -1,4 +1,4 @@
-package codingTest.programmers;
+package codingTest.programmers.test;
 
 public class Program_2 {
     public static String solution(String encrypted_text, String key, int rotation) {

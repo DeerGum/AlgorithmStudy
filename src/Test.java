@@ -7,21 +7,17 @@ import java.util.ArrayList;
 
 public class Test {
     public static void main(String[] args){
-        Gson gson = new GsonBuilder().create();
-        Test1 t1 = new Test1(5);
-        Test1 t2 = new Test1(5);
-        Test1 t3 = new Test1(5);
+        String test = "123tsea@!@#$%@!,-.._";
+        test = test.replaceAll("[^0-9a-z-_.]+","");
+        test = test.replaceAll("[..]+",".");
+        System.out.println(test);
 
-        ArrayList<Test1> arr = new ArrayList<>();
-        arr.add(t1);
-        arr.add(t2);
-        arr.add(t3);
-        StringBuilder sb = new StringBuilder();
-        sb.append("{\"commands\":");
-        String j = gson.toJson(arr);
-        sb.append(j);
-        sb.append("}");
-        System.out.println(sb.toString());
+        String test2 = "12345";
+        System.out.println(test2.replaceFirst(".$",""));
+
+        String test3 = "-123";
+        int temp = Integer.valueOf(test3);
+        System.out.println(temp);
     }
 }
 
