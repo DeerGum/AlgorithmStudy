@@ -12,5 +12,11 @@ public class Program_2 {
 
         int t = Integer.parseInt(br.readLine());
         int n;
+        StringTokenizer st;
+        for (int i = 0; i < t; i++) {
+
+
+
+        }
     }
 }

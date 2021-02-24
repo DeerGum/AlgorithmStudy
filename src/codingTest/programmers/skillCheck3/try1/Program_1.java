@@ -1,7 +1,6 @@
-package codingTest.codeforce.prevCode;
+package codingTest.programmers.skillCheck3.try1;
 
 import java.io.*;
-import java.util.StringTokenizer;
 
 public class Program_1 {
 
@@ -11,11 +10,10 @@ public class Program_1 {
 
         int t = Integer.parseInt(br.readLine());
         int n;
-        StringTokenizer st;
-        for (int i = 0; i < t; i++) {
+    }
 
-
-
-        }
+    public long solution(int n, int[] times) {
+        long answer = 0;
+        return answer;
     }
 }

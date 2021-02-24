@@ -14,21 +14,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2002d891-60d6-46b3-ab93-1419e2b8b3be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/educationalRound103/Program_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/educationalRound103/Program_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/educationalRound103/Program_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/educationalRound103/Program_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/skillCheck1/try1/Program_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/skillCheck1/try1/Program_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/skillCheck1/try2/Program_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/skillCheck1/try2/Program_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/skillCheck2/try1/Program_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/skillCheck2/try1/Program_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap03/SumFunc.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap04/InlineFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap04/LambdaTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap04/infixFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap05/forTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/programmers/MenuRenewal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/educationalRound104/Program_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/educationalRound104/Program_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/educationalRound104/Program_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/round700/Program_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/round700/Program_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/round700/Program_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/round702/Program_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/round702/Program_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/round702/Program_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/skillCheck3/try1/Program_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/skillCheck3/try1/Program_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap06/AlsoTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap06/LetTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap06/RunTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap06/WithTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap201/birdClassTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/AlgorithmStudy/META-INF/AlgorithmStudy.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmStudy/META-INF/AlgorithmStudy.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
@@ -36,9 +38,9 @@
       <change beforePath="$PROJECT_DIR$/src/codingTest/codeforce/prevCode/Program_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/codeforce/prevCode/Program_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codingTest/codeforce/prevCode/Program_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/codeforce/prevCode/Program_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codingTest/codeforce/prevCode/Program_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/codeforce/prevCode/Program_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/programmers/Program_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/programmers/test/Program_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/programmers/Program_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/programmers/test/Program_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/programmers/Program_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/programmers/test/Program_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codingTest/programmers/skillCheck1/try1/Program_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/programmers/skillCheck1/try1/Program_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codingTest/programmers/skillCheck2/try1/Program_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/programmers/skillCheck2/try1/Program_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kotlin_study/chap04/infixFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlin_study/chap04/infixFunction.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +67,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1mmMYP9vDLcrJwhjfRTrLj5HtoF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -77,38 +81,27 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/codingTest/programmers/skillCheck2/try1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/codingTest/codeforce/round702" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Project\AlgorithmStudy\src\codingTest\codeforce\round702" />
+      <recent name="C:\Project\AlgorithmStudy\src\codingTest\codeforce\educationalRound104" />
+      <recent name="C:\Project\AlgorithmStudy\src\codingTest\codeforce\round700" />
+      <recent name="C:\Project\AlgorithmStudy\src\codingTest\programmers\skillCheck3\try1" />
       <recent name="C:\Project\AlgorithmStudy\src\codingTest\programmers\skillCheck2\try1" />
-      <recent name="C:\Project\AlgorithmStudy\src\codingTest\programmers\skillCheck1\try2" />
-      <recent name="C:\Project\AlgorithmStudy\src\codingTest\codeforce\educationalRound103" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program_1 (1)">
-    <configuration name="Program_1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.programmers.skillCheck2.try1.Program_1" />
-      <module name="AlgorithmStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingTest.programmers.skillCheck2.try1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BirdClassTestKt">
     <configuration name="Program_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.codeforce.educationalRound103.Program_1" />
+      <option name="MAIN_CLASS_NAME" value="codingTest.codeforce.round702.Program_1" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingTest.codeforce.educationalRound103.*" />
+          <option name="PATTERN" value="codingTest.codeforce.round702.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +109,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program_2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.codeforce.educationalRound103.Program_2" />
+    <configuration name="Program_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.codeforce.round702.Program_2" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingTest.codeforce.educationalRound103.*" />
+          <option name="PATTERN" value="codingTest.codeforce.round702.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.codeforce.educationalRound104.Program_3" />
+      <module name="AlgorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.codeforce.educationalRound104.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,14 +142,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="BirdClassTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlin_study.chap05.ForTestKt" />
+      <option name="MAIN_CLASS_NAME" value="kotlin_study.chap201.BirdClassTestKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -151,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Program_1 (1)" />
+        <item itemvalue="Application.BirdClassTestKt" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Program_2 (1)" />
+        <item itemvalue="Application.Program_2" />
         <item itemvalue="Application.Program_1" />
-        <item itemvalue="Application.ForTestKt" />
+        <item itemvalue="Application.Program_3" />
       </list>
     </recent_temporary>
   </component>
@@ -199,38 +205,38 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="345" y="440" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1610109449731" />
-    <state width="2517" height="493" key="GridCell.Tab.0.bottom" timestamp="1612026649397">
+    <state width="1234" height="492" key="GridCell.Tab.0.bottom" timestamp="1613493051471">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="493" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1612026649397" />
-    <state width="2517" height="493" key="GridCell.Tab.0.center" timestamp="1612026649396">
+    <state width="1234" height="492" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1613493051471" />
+    <state width="1234" height="492" key="GridCell.Tab.0.center" timestamp="1613493051471">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="493" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1612026649396" />
-    <state width="2517" height="493" key="GridCell.Tab.0.left" timestamp="1612026649396">
+    <state width="1234" height="492" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1613493051471" />
+    <state width="1234" height="492" key="GridCell.Tab.0.left" timestamp="1613493051471">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="493" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1612026649396" />
-    <state width="2517" height="493" key="GridCell.Tab.0.right" timestamp="1612026649397">
+    <state width="1234" height="492" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1613493051471" />
+    <state width="1234" height="492" key="GridCell.Tab.0.right" timestamp="1613493051471">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="493" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1612026649397" />
-    <state width="2517" height="493" key="GridCell.Tab.1.bottom" timestamp="1612026649397">
+    <state width="1234" height="492" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1613493051471" />
+    <state width="1234" height="492" key="GridCell.Tab.1.bottom" timestamp="1613493051471">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="493" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1612026649397" />
-    <state width="2517" height="493" key="GridCell.Tab.1.center" timestamp="1612026649397">
+    <state width="1234" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1613493051471" />
+    <state width="1234" height="492" key="GridCell.Tab.1.center" timestamp="1613493051471">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="493" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1612026649397" />
-    <state width="2517" height="493" key="GridCell.Tab.1.left" timestamp="1612026649397">
+    <state width="1234" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1613493051471" />
+    <state width="1234" height="492" key="GridCell.Tab.1.left" timestamp="1613493051471">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="493" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1612026649397" />
-    <state width="2517" height="493" key="GridCell.Tab.1.right" timestamp="1612026649397">
+    <state width="1234" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1613493051471" />
+    <state width="1234" height="492" key="GridCell.Tab.1.right" timestamp="1613493051471">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="493" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1612026649397" />
+    <state width="1234" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1613493051471" />
     <state x="127" y="274" key="SettingsEditor" timestamp="1610109454891">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -247,6 +253,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="0" y="0" width="2193" height="1387" key="dock-window-1/0.0.2560.1400@0.0.2560.1400" timestamp="1610431607925" />
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1613487133768">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1613487133768" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -256,8 +266,13 @@
           <option name="timeStamp" value="3" />
         </breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/codingTest/programmers/skillCheck2/try1/Program_1.java</url>
-          <line>8</line>
+          <url>file://$PROJECT_DIR$/src/codingTest/codeforce/educationalRound104/Program_3.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codingTest/codeforce/round702/Program_1.java</url>
+          <line>24</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>

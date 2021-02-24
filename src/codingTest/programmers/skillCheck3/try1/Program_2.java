@@ -1,9 +1,8 @@
-package codingTest.codeforce.prevCode;
+package codingTest.programmers.skillCheck3.try1;
 
 import java.io.*;
-import java.util.StringTokenizer;
 
-public class Program_1 {
+public class Program_2 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -11,11 +10,5 @@ public class Program_1 {
 
         int t = Integer.parseInt(br.readLine());
         int n;
-        StringTokenizer st;
-        for (int i = 0; i < t; i++) {
-
-
-
-        }
     }
 }
