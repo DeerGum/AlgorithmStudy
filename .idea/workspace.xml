@@ -14,33 +14,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2002d891-60d6-46b3-ab93-1419e2b8b3be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/programmers/MenuRenewal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/educationalRound104/Program_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/educationalRound104/Program_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/educationalRound104/Program_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/round700/Program_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/round700/Program_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/round700/Program_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/round702/Program_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/round702/Program_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/round702/Program_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/skillCheck3/try1/Program_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/skillCheck3/try1/Program_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap06/AlsoTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap06/LetTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap06/RunTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap06/WithTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap201/birdClassTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestKotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/Baekjoon/Baekjoon2839.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/Baekjoon/Baekjoon4344.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap201/BirdChildClasses.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/AlgorithmStudy/META-INF/AlgorithmStudy.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmStudy/META-INF/AlgorithmStudy.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/codeforce/prevCode/Program_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/codeforce/prevCode/Program_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/codeforce/prevCode/Program_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/codeforce/prevCode/Program_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/codeforce/prevCode/Program_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/codeforce/prevCode/Program_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/codeforce/prevCode/Program_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/codeforce/prevCode/Program_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/programmers/skillCheck1/try1/Program_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/programmers/skillCheck1/try1/Program_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/programmers/skillCheck2/try1/Program_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/programmers/skillCheck2/try1/Program_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlin_study/chap04/infixFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlin_study/chap04/infixFunction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/GraphColoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/study/GraphColoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/HanoiTower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/study/HanoiTower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/study/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/MatrixChainMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/study/MatrixChainMultiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/NQueen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/study/NQueen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/RecursiveFibo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/study/RecursiveFibo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/RepeatFibo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/study/RepeatFibo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/ShortestPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/study/ShortestPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/study/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/binarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/study/binarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/mergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/study/mergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kotlin_study/chap201/birdClassTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlin_study/chap201/BirdClassTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +77,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -95,7 +88,7 @@
       <recent name="C:\Project\AlgorithmStudy\src\codingTest\programmers\skillCheck2\try1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BirdClassTestKt">
+  <component name="RunManager" selected="Kotlin.Baekjoon2839Kt">
     <configuration name="Program_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codingTest.codeforce.round702.Program_1" />
       <module name="AlgorithmStudy" />
@@ -122,19 +115,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.codeforce.educationalRound104.Program_3" />
-      <module name="AlgorithmStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingTest.codeforce.educationalRound104.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="AlgorithmStudy" />
@@ -142,14 +122,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BirdClassTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="Baekjoon2839Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlin_study.chap201.BirdClassTestKt" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.Baekjoon.Baekjoon2839Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjoon4344Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmStudy" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.Baekjoon.Baekjoon4344Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BirdClassTestKt" />
+        <item itemvalue="Kotlin.Baekjoon2839Kt" />
+        <item itemvalue="Kotlin.Baekjoon4344Kt" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Program_2" />
         <item itemvalue="Application.Program_1" />
-        <item itemvalue="Application.Program_3" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +186,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="452" y="384" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1610468369409" />
+    <state x="320" y="438" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1614141767693">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="320" y="438" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1614141767693" />
     <state x="1017" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610459777797">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -205,22 +202,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="345" y="440" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1610109449731" />
-    <state width="1234" height="492" key="GridCell.Tab.0.bottom" timestamp="1613493051471">
+    <state width="1234" height="319" key="GridCell.Tab.0.bottom" timestamp="1614241003812">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="492" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1613493051471" />
-    <state width="1234" height="492" key="GridCell.Tab.0.center" timestamp="1613493051471">
+    <state width="1234" height="319" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1614241003812" />
+    <state width="1234" height="319" key="GridCell.Tab.0.center" timestamp="1614241003812">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="492" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1613493051471" />
-    <state width="1234" height="492" key="GridCell.Tab.0.left" timestamp="1613493051471">
+    <state width="1234" height="319" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1614241003812" />
+    <state width="1234" height="319" key="GridCell.Tab.0.left" timestamp="1614241003812">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="492" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1613493051471" />
-    <state width="1234" height="492" key="GridCell.Tab.0.right" timestamp="1613493051471">
+    <state width="1234" height="319" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1614241003812" />
+    <state width="1234" height="319" key="GridCell.Tab.0.right" timestamp="1614241003812">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="492" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1613493051471" />
+    <state width="1234" height="319" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1614241003812" />
     <state width="1234" height="492" key="GridCell.Tab.1.bottom" timestamp="1613493051471">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -237,10 +234,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1234" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1613493051471" />
-    <state x="127" y="274" key="SettingsEditor" timestamp="1610109454891">
+    <state x="127" y="274" key="SettingsEditor" timestamp="1614143509705">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="127" y="274" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1610109454891" />
+    <state x="127" y="274" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1614143509705" />
     <state x="345" y="591" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1610435502568">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

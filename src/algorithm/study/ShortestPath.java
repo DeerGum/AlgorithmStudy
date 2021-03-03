@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.study;
 
 public class ShortestPath {
 

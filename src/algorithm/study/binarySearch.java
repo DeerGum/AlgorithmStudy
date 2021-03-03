@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.study;
 
 import java.util.Random;
 
@@ -10,7 +10,7 @@ public class binarySearch {
 
 	public static void main(String[] args) {
 		int[] arr = new int[ARR_SIZE];
-		int x = r.nextInt(X_RANGE);	//¹«ÀÛÀ§ °Ë»ö¼ýÀÚ
+		int x = r.nextInt(X_RANGE);	//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ë»ï¿½ï¿½ï¿½ï¿½ï¿½
 		initArray(arr);
 		int searchIndex = binarySearch(arr,x);
 		printArray(arr);
@@ -54,7 +54,7 @@ public class binarySearch {
 				high = mid - 1;
 		}
 		
-		return -1;	//¹è¿­¾È¿¡ x°¡ ¾øÀ½
+		return -1;	//ï¿½è¿­ï¿½È¿ï¿½ xï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 	}
 	
 	public static int binarySearch2(int[] arr, int x, int low, int high) {
