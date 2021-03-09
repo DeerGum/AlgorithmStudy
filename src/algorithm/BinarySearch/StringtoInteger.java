@@ -1,18 +1,11 @@
-import java.math.BigInteger;
-import java.util.Arrays;
+package algorithm.BinarySearch;
 
-public class Test {
-    public static void main(String[] args){
-        String[] temp = {"ABC","BCDE","BDE","CDEFG","ACDS"};
-        String temp2 = "ASDF";
-
-        System.out.println(temp2.substring(0,4));
-
-    }
-    public static void test(String str) {
-        str = "hello";
-    }
-
+/**
+ * ASCII String to Integer
+ * 아스키코드 문자열 숫자로 변환 문제
+ * 문제주소 - https://binarysearch.com/problems/ASCII-String-to-Integer
+ */
+public class StringtoInteger {
     public int solve(String s) {
         int result = 0;
         boolean prevNum = false;
@@ -41,16 +34,4 @@ public class Test {
 
         return result;
     }
-
 }
-
-/*
-1 = 1
-2 = 8
-3 = 27
-4 = 64
-5 = 125
-6 = 216
-
-
- */
