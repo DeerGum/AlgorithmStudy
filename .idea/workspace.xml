@@ -14,15 +14,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2002d891-60d6-46b3-ab93-1419e2b8b3be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Baekjoon/Baekjoon11047.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Baekjoon/Baekjoon1931.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/BinarySearch/StringtoInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap202/AggregationTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap202/CompositionTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap202/DependencyTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlin_study/TicTacToe/TicTacToe.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/AlgorithmStudy/META-INF/AlgorithmStudy.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmStudy/META-INF/AlgorithmStudy.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +72,7 @@
       <recent name="C:\Project\AlgorithmStudy\src\codingTest\programmers\skillCheck2\try1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Kotlin.TicTacToeKt">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="AlgorithmStudy" />
@@ -112,19 +106,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon4344Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmStudy" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="algorithm.Baekjoon.Baekjoon4344Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DependencyTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="VM_PARAMETERS" />
@@ -138,13 +119,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TicTacToeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmStudy" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="kotlin_study.TicTacToe.TicTacToeKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TicTacToeKt" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Kotlin.Baekjoon11047Kt" />
         <item itemvalue="Kotlin.DependencyTestKt" />
         <item itemvalue="Kotlin.Baekjoon2839Kt" />
-        <item itemvalue="Kotlin.Baekjoon4344Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -204,22 +198,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="345" y="440" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1610109449731" />
-    <state width="1234" height="318" key="GridCell.Tab.0.bottom" timestamp="1615229204196">
+    <state width="1234" height="318" key="GridCell.Tab.0.bottom" timestamp="1615384564526">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="318" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1615229204196" />
-    <state width="1234" height="318" key="GridCell.Tab.0.center" timestamp="1615229204196">
+    <state width="1234" height="318" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1615384564526" />
+    <state width="1234" height="318" key="GridCell.Tab.0.center" timestamp="1615384564526">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="318" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1615229204196" />
-    <state width="1234" height="318" key="GridCell.Tab.0.left" timestamp="1615229204196">
+    <state width="1234" height="318" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1615384564526" />
+    <state width="1234" height="318" key="GridCell.Tab.0.left" timestamp="1615384564526">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="318" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1615229204196" />
-    <state width="1234" height="318" key="GridCell.Tab.0.right" timestamp="1615229204196">
+    <state width="1234" height="318" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1615384564526" />
+    <state width="1234" height="318" key="GridCell.Tab.0.right" timestamp="1615384564526">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="318" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1615229204196" />
+    <state width="1234" height="318" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1615384564526" />
     <state width="1234" height="492" key="GridCell.Tab.1.bottom" timestamp="1613493051471">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
