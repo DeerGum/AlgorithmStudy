@@ -14,10 +14,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2002d891-60d6-46b3-ab93-1419e2b8b3be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Baekjoon/Baekjoon9359.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmStudy/META-INF/AlgorithmStudy.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmStudy/META-INF/AlgorithmStudy.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/Baekjoon/Baekjoon9251.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Baekjoon/Baekjoon9251.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/programmers/RankingSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/programmers/RankingSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
