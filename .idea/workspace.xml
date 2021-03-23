@@ -14,9 +14,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2002d891-60d6-46b3-ab93-1419e2b8b3be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Baekjoon/Baekjoon9251.java" afterDir="false" />
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/src/codingTest/nts/Project1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/nts/Project2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlin_study/TicTacToe/TicTacToe.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlin_study/TicTacToe/TicTacToe.kt" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/Baekjoon/Baekjoon9251.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Baekjoon/Baekjoon9251.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/programmers/RankingSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/programmers/RankingSearch.java" afterDir="false" />
+>>>>>>> master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,12 +62,13 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/codingTest/codeforce/round702" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -72,13 +79,45 @@
       <recent name="C:\Project\AlgorithmStudy\src\codingTest\programmers\skillCheck2\try1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Baekjoon9251">
+<<<<<<< HEAD
+  <component name="RunManager" selected="Application.Project1">
     <configuration name="Baekjoon9251" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.Baekjoon.Baekjoon9251" />
+=======
+  <component name="RunManager" selected="Application.Baekjoon9359">
+    <configuration name="Baekjoon9359" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Baekjoon.Baekjoon9359" />
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algorithm.Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+>>>>>>> master
+      <module name="AlgorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Project1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.nts.Project1" />
+      <module name="AlgorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.nts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,19 +145,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DependencyTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmStudy" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlin_study.chap202.DependencyTestKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TicTacToeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="VM_PARAMETERS" />
@@ -134,11 +160,16 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
+        <item itemvalue="Application.Project1" />
         <item itemvalue="Application.Baekjoon9251" />
         <item itemvalue="Kotlin.TicTacToeKt" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Kotlin.Baekjoon11047Kt" />
-        <item itemvalue="Kotlin.DependencyTestKt" />
+=======
+        <item itemvalue="Application.Baekjoon9359" />
+        <item itemvalue="Application.Test" />
+>>>>>>> master
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +208,7 @@
     <MESSAGE value="알고리즘, 코틀린 코드 업로드" />
     <option name="LAST_COMMIT_MESSAGE" value="알고리즘, 코틀린 코드 업로드" />
   </component>
+<<<<<<< HEAD
   <component name="WindowStateProjectService">
     <state x="452" y="384" key="#com.intellij.ide.util.MemberChooser" timestamp="1615209966008">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -198,22 +230,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="345" y="440" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1610109449731" />
-    <state width="1234" height="318" key="GridCell.Tab.0.bottom" timestamp="1615536620397">
+    <state width="2517" height="181" key="GridCell.Tab.0.bottom" timestamp="1616032951578">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="318" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1615536620397" />
-    <state width="1234" height="318" key="GridCell.Tab.0.center" timestamp="1615536620397">
+    <state width="2517" height="181" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1616032951578" />
+    <state width="2517" height="181" key="GridCell.Tab.0.center" timestamp="1616032951578">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="318" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1615536620397" />
-    <state width="1234" height="318" key="GridCell.Tab.0.left" timestamp="1615536620397">
+    <state width="2517" height="181" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1616032951578" />
+    <state width="2517" height="181" key="GridCell.Tab.0.left" timestamp="1616032951578">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="318" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1615536620397" />
-    <state width="1234" height="318" key="GridCell.Tab.0.right" timestamp="1615536620397">
+    <state width="2517" height="181" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1616032951578" />
+    <state width="2517" height="181" key="GridCell.Tab.0.right" timestamp="1616032951578">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="318" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1615536620397" />
+    <state width="2517" height="181" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1616032951578" />
     <state width="1234" height="492" key="GridCell.Tab.1.bottom" timestamp="1613493051471">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -251,6 +283,8 @@
     </state>
     <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1613487133768" />
   </component>
+=======
+>>>>>>> master
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
