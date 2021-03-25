@@ -5,6 +5,9 @@ public class Test {
     public static void main(String[] args){
         String[] temp = {"ABC","BCDE","BDE","CDEFG","ACDS"};
         String temp2 = "ASDF";
+        Arrays.sort(temp);
+        int n = 3;
+        
 
         System.out.println(temp2.substring(0,4));
 

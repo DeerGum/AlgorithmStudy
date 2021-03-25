@@ -33,7 +33,7 @@ public class Project2 {
         else {  //카멜 -> 스네이크 변환 stringBuilder
             for (int i = 0; i < sb.length(); i++) {
                 if (Character.isUpperCase(sb.charAt(i))) {
-                    sb.setCharAt(i,Character.toLowerCase());
+//                    sb.setCharAt(i,Character.toLowerCase());
                     String sub = sb.substring(i);
                     sb.delete(i,sb.length()-1);
 
