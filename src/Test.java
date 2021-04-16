@@ -1,4 +1,5 @@
 import java.math.BigInteger;
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Test {
@@ -7,7 +8,11 @@ public class Test {
         String temp2 = "ASDF";
         Arrays.sort(temp);
         int n = 3;
+        ArrayList<Integer> list = new ArrayList<>();
+        System.out.println(list.get(0));
+        int[] t1 = new int[5];
         
+
 
         System.out.println(temp2.substring(0,4));
 

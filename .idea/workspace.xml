@@ -23,18 +23,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2002d891-60d6-46b3-ab93-1419e2b8b3be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap203/AbstractVehicle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap203/ByLazyTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap203/CompanionObjectTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap203/DelegatedClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap203/DelegatedProperty.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap203/DelegatedPropertyVetoable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap203/LateinitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap203/Properties.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/aprilFoolsDay2021/Program_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/aprilFoolsDay2021/Program_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/aprilFoolsDay2021/Program_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/aprilFoolsDay2021/Program_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/aprilFoolsDay2021/Program_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/kakao/Program_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/kakao/Program_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/kakao/Program_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/month_4/Program_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/month_4/Program_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/month_4/Program_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/month_4/Program_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap205/ListBasic.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/AlgorithmStudy/META-INF/AlgorithmStudy.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmStudy/META-INF/AlgorithmStudy.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/nts/Project2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/nts/Project2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestKotlin.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,82 +80,85 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/codingTest/codeforce/round702" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/codingTest/programmers/month_4" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="codingTest.codeforce.aprilFoolsDay2021" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Project\AlgorithmStudy\src\codingTest\programmers\month_4" />
+      <recent name="C:\Project\AlgorithmStudy\src\codingTest\naver" />
+      <recent name="C:\Project\AlgorithmStudy\src\codingTest\codeforce\aprilFoolsDay2021" />
       <recent name="C:\Project\AlgorithmStudy\src\codingTest\codeforce\round702" />
       <recent name="C:\Project\AlgorithmStudy\src\codingTest\codeforce\educationalRound104" />
-      <recent name="C:\Project\AlgorithmStudy\src\codingTest\codeforce\round700" />
-      <recent name="C:\Project\AlgorithmStudy\src\codingTest\programmers\skillCheck3\try1" />
-      <recent name="C:\Project\AlgorithmStudy\src\codingTest\programmers\skillCheck2\try1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.CompanionObjectTestKt">
-    <configuration name="ByLazyTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Program_3 (1)">
+    <configuration name="Program_2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.programmers.month_4.Program_2" />
       <module name="AlgorithmStudy" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlin_study.chap203.ByLazyTestKt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.programmers.month_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompanionObjectTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="Program_3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.programmers.month_4.Program_3" />
       <module name="AlgorithmStudy" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlin_study.chap203.CompanionObjectTestKt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.programmers.month_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DelegatedClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="Program_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.codeforce.aprilFoolsDay2021.Program_3" />
       <module name="AlgorithmStudy" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlin_study.chap203.DelegatedClassKt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.codeforce.aprilFoolsDay2021.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DelegatedPropertyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="Program_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.codeforce.aprilFoolsDay2021.Program_5" />
       <module name="AlgorithmStudy" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlin_study.chap203.DelegatedPropertyKt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.codeforce.aprilFoolsDay2021.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DelegatedPropertyVetoableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="ListBasicKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlin_study.chap203.DelegatedPropertyVetoableKt" />
+      <option name="MAIN_CLASS_NAME" value="kotlin_study.chap205.ListBasicKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -158,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.CompanionObjectTestKt" />
-        <item itemvalue="Kotlin.DelegatedPropertyVetoableKt" />
-        <item itemvalue="Kotlin.DelegatedPropertyKt" />
-        <item itemvalue="Kotlin.DelegatedClassKt" />
-        <item itemvalue="Kotlin.ByLazyTestKt" />
+        <item itemvalue="Application.Program_3 (1)" />
+        <item itemvalue="Application.Program_2 (1)" />
+        <item itemvalue="Kotlin.ListBasicKt" />
+        <item itemvalue="Application.Program_5" />
+        <item itemvalue="Application.Program_3" />
       </list>
     </recent_temporary>
   </component>
@@ -222,38 +230,38 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="345" y="440" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1610109449731" />
-    <state width="1234" height="401" key="GridCell.Tab.0.bottom" timestamp="1616526073357">
+    <state width="1234" height="787" key="GridCell.Tab.0.bottom" timestamp="1618500367976">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1616526073357" />
-    <state width="1234" height="401" key="GridCell.Tab.0.center" timestamp="1616526073357">
+    <state width="1234" height="787" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1618500367976" />
+    <state width="1234" height="787" key="GridCell.Tab.0.center" timestamp="1618500367975">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1616526073357" />
-    <state width="1234" height="401" key="GridCell.Tab.0.left" timestamp="1616526073357">
+    <state width="1234" height="787" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1618500367975" />
+    <state width="1234" height="787" key="GridCell.Tab.0.left" timestamp="1618500367975">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1616526073357" />
-    <state width="1234" height="401" key="GridCell.Tab.0.right" timestamp="1616526073357">
+    <state width="1234" height="787" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1618500367975" />
+    <state width="1234" height="787" key="GridCell.Tab.0.right" timestamp="1618500367976">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1616526073357" />
-    <state width="1234" height="492" key="GridCell.Tab.1.bottom" timestamp="1613493051471">
+    <state width="1234" height="787" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1618500367976" />
+    <state width="1234" height="787" key="GridCell.Tab.1.bottom" timestamp="1618500367976">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1613493051471" />
-    <state width="1234" height="492" key="GridCell.Tab.1.center" timestamp="1613493051471">
+    <state width="1234" height="787" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1618500367976" />
+    <state width="1234" height="787" key="GridCell.Tab.1.center" timestamp="1618500367976">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1613493051471" />
-    <state width="1234" height="492" key="GridCell.Tab.1.left" timestamp="1613493051471">
+    <state width="1234" height="787" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1618500367976" />
+    <state width="1234" height="787" key="GridCell.Tab.1.left" timestamp="1618500367976">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1613493051471" />
-    <state width="1234" height="492" key="GridCell.Tab.1.right" timestamp="1613493051471">
+    <state width="1234" height="787" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1618500367976" />
+    <state width="1234" height="787" key="GridCell.Tab.1.right" timestamp="1618500367976">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1613493051471" />
+    <state width="1234" height="787" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1618500367976" />
     <state x="127" y="274" key="SettingsEditor" timestamp="1614143509705">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -291,6 +299,11 @@
           <url>file://$PROJECT_DIR$/src/codingTest/codeforce/round702/Program_1.java</url>
           <line>24</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codingTest/codeforce/aprilFoolsDay2021/Program_3.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
