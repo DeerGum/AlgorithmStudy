@@ -28,6 +28,7 @@
       <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/round716/Program_3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/round716/Program_4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap205/CollectionOperators.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/Baekjoon/Baekjoon1094.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/AlgorithmStudy/META-INF/AlgorithmStudy.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmStudy/META-INF/AlgorithmStudy.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
@@ -41,8 +42,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -92,6 +93,8 @@
   <component name="RunManager" selected="Application.Program_2">
     <configuration name="Program_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codingTest.codeforce.round716.Program_1" />
+  <component name="RunManager" selected="Application.ByLazyTestKt">
+    <configuration name="ByLazyTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <extension name="coverage">
         <pattern>
