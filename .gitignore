@@ -2,5 +2,9 @@
 *.class
 
 .idea/workspace.xml
+
 out/
+
 .idea/
+
+*.kotlin_module

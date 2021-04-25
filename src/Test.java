@@ -1,16 +1,14 @@
 import java.math.BigInteger;
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Test {
     public static void main(String[] args){
         String[] temp = {"ABC","BCDE","BDE","CDEFG","ACDS"};
         String temp2 = "ASDF";
-        Arrays.sort(temp);
-        int n = 3;
-        
+        Double d1 = Math.sqrt(5);
 
-        System.out.println(temp2.substring(0,4));
-
+        System.out.println(d1 +" "+d1.intValue());
     }
     public static void test(String str) {
         str = "hello";
