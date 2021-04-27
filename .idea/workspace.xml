@@ -23,15 +23,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2002d891-60d6-46b3-ab93-1419e2b8b3be" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/round716/Program_1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/round716/Program_2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/round716/Program_3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/codingTest/codeforce/round716/Program_4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/kotlin_study/chap205/CollectionOperators.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/algorithm/Baekjoon/Baekjoon1094.java" afterDir="false" />
+=======
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmStudy/META-INF/AlgorithmStudy.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmStudy/META-INF/AlgorithmStudy.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codingTest/programmers/month_4/Program_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/programmers/month_4/Program_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +92,7 @@
       <recent name="C:\Project\AlgorithmStudy\src\codingTest\codeforce\round702" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program_2">
+  <component name="RunManager" selected="Application.Program_3 (1)">
     <configuration name="Program_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codingTest.codeforce.round716.Program_1" />
   <component name="RunManager" selected="Application.ByLazyTestKt">
@@ -154,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program_3 (1)" />
         <item itemvalue="Application.Program_2" />
         <item itemvalue="Application.Program_1" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Kotlin.CollectionOperatorsKt" />
-        <item itemvalue="Application.Program_3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -214,22 +216,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="427" height="466" key="DebuggerActiveHint/0.0.2560.1400@0.0.2560.1400" timestamp="1610472806320" />
-    <state width="1234" height="782" key="GridCell.Tab.0.bottom" timestamp="1618850088334">
+    <state width="1232" height="363" key="GridCell.Tab.0.bottom" timestamp="1619097496954">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="782" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1618850088334" />
-    <state width="1234" height="782" key="GridCell.Tab.0.center" timestamp="1618850088334">
+    <state width="1232" height="363" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1619097496954" />
+    <state width="1232" height="363" key="GridCell.Tab.0.center" timestamp="1619097496954">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="782" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1618850088334" />
-    <state width="1234" height="782" key="GridCell.Tab.0.left" timestamp="1618850088333">
+    <state width="1232" height="363" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1619097496954" />
+    <state width="1232" height="363" key="GridCell.Tab.0.left" timestamp="1619097496954">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="782" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1618850088333" />
-    <state width="1234" height="782" key="GridCell.Tab.0.right" timestamp="1618850088334">
+    <state width="1232" height="363" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1619097496954" />
+    <state width="1232" height="363" key="GridCell.Tab.0.right" timestamp="1619097496954">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="782" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1618850088334" />
+    <state width="1232" height="363" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1619097496954" />
     <state width="1234" height="782" key="GridCell.Tab.1.bottom" timestamp="1618850088334">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -250,14 +252,6 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="127" y="274" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1614143509705" />
-    <state x="345" y="591" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1610435502568">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="345" y="591" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.2560.1400@0.0.2560.1400" timestamp="1610435502568" />
-    <state x="0" y="0" width="2193" height="1387" key="dock-window-1" timestamp="1610431607925">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="0" y="0" width="2193" height="1387" key="dock-window-1/0.0.2560.1400@0.0.2560.1400" timestamp="1610431607925" />
     <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1613487133768">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
