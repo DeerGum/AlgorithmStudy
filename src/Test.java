@@ -8,7 +8,8 @@ public class Test {
         String temp2 = "ASDF";
         Double d1 = Math.sqrt(5);
 
-        System.out.println(d1 +" "+d1.intValue());
+        System.out.println("hel\tgg");
+        System.out.println("he\tgg");
     }
     public static void test(String str) {
         str = "hello";
