@@ -1,4 +1,4 @@
-package codingTest.kakao;
+package codingTest.kakao.top;
 
 import java.io.*;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package codingTest.kakao;
+package codingTest.kakao.top;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -64,7 +64,7 @@ public class Program_2 {
         combiTemp.add(temp);
     }
 
-    
+
 }
 /*
 0
