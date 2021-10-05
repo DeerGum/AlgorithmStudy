@@ -1,4 +1,4 @@
-package codingTest.nhn;
+package codingTest.nhn.winter_2020;
 
 import java.util.Arrays;
 import java.util.Scanner;
