@@ -43,6 +43,7 @@ public class Matrix {
 			System.out.println(" multiplication count : "+mulCount);
 			System.out.println("#########################################");
 			System.out.println();
+			mulCount = 0;
 		}
 	}
 	
